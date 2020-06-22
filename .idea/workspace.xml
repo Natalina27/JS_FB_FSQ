@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44f95ad3-be5f-4f9e-80fd-4ac0b937b033" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="44f95ad3-be5f-4f9e-80fd-4ac0b937b033" name="Default Changelist" comment="added 2 solutions">
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,14 +52,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592733380172</updated>
-      <workItem from="1592733383478" duration="2087000" />
+      <workItem from="1592733383478" duration="2276000" />
     </task>
+    <task id="LOCAL-00001" summary="added 2 solutions">
+      <created>1592802506575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592802506575</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added 2 solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 2 solutions" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="324" y="23" width="846" height="830" key="CommitChangelistDialog2" timestamp="1592802561922">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="324" y="23" width="846" height="830" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1592802561922" />
     <state x="545" y="353" key="Github.ShareDialog" timestamp="1592733436907">
       <screen x="0" y="23" width="1440" height="830" />
     </state>

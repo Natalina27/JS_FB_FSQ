@@ -25,11 +25,10 @@ console.log(findIntersection(['1, 3, 9, 10, 17, 18', '4, 44, 99']));
 // Solution 2
 
 const getIntersection = (arr) =>{
-    const [arr1, arr2] = arr.map(arr => arr.split(", "))
+    const [arr1, arr2] = arr.map(arr => arr.split(", "));
+    let res = arr1.filter(item => arr2.includes(item));
 
-    return arr1.filter(item =>
-        arr2.includes(item)
-    )
+    return res.length === 0 ? 'false' : res;
 }
 
 console.log(getIntersection(['1, 3, 4, 7, 15', '1, 2, 4, 15, 21']));
